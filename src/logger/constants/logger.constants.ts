@@ -1,0 +1,3 @@
+export const LOGGER_OPTIONS = 'LOGGER_OPTIONS';
+export const PROJECT_OPTIONS = 'PROJECT_OPTIONS';
+export const LOGGER_INTERCEPTOR_CUSTOM_NAME = 'Induccion';
